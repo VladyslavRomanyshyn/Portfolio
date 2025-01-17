@@ -14,8 +14,6 @@
     padding: 30px;
 }
 
-
-
 .projectsContainer {
     width: 100%;
     display: flex;
@@ -116,8 +114,9 @@
 
 .photoContainer2 {
     width: 90%;
-    height: 200px;
+    height: 194px;
     background-color: #333;
+    border-radius: 10px;
 }
 
 .photoContainer2 img {

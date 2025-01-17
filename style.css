@@ -44,6 +44,7 @@
     justify-content: center;
     align-items: center;
     margin-right: 5px;
+    
 }
 
 .photo {
@@ -61,7 +62,7 @@
 .infoContainer .mainInfoContainer p {
     margin: 30px 0;
     font-size: 16px;
-    font-weight: 200;
+    font-weight: 400;
 }
 
 .infoContainer .mainInfoContainer .controlls a {
