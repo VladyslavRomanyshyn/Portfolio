@@ -47,6 +47,10 @@
     
 }
 
+.socialContainer .socialItem i {
+    color: #fff;
+}
+
 .photo {
     width: 300px;
     height: 400px;
